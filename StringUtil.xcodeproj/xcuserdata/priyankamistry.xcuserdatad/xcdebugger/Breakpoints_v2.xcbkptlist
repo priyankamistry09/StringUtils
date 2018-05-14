@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringUtilTests/StringUtilTests.swift"
+            timestampString = "547971504.520066"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "testTruncate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StringUtilTests.StringUtilTests.testTruncate() -&gt; ()"
+                  moduleName = "StringUtilTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankamistry/Documents/Priyanka_backup/Priyanka_backup/Priyanka_Mistry/Development/StringUtil/StringUtilTests/StringUtilTests.swift"
+                  timestampString = "547971505.489768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.String in StringUtilTests.StringUtilTests.testTruncate() -&gt; ()"
+                  moduleName = "StringUtilTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankamistry/Documents/Priyanka_backup/Priyanka_backup/Priyanka_Mistry/Development/StringUtil/StringUtilTests/StringUtilTests.swift"
+                  timestampString = "547971505.492875"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.String in StringUtilTests.StringUtilTests.testTruncate() -&gt; ()"
+                  moduleName = "StringUtilTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankamistry/Documents/Priyanka_backup/Priyanka_backup/Priyanka_Mistry/Development/StringUtil/StringUtilTests/StringUtilTests.swift"
+                  timestampString = "547971505.496145"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringUtilTests/StringUtilTests.swift"
+            timestampString = "547971504.520534"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "testTruncate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StringUtilTests.StringUtilTests.testTruncate() -&gt; ()"
+                  moduleName = "StringUtilTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankamistry/Documents/Priyanka_backup/Priyanka_backup/Priyanka_Mistry/Development/StringUtil/StringUtilTests/StringUtilTests.swift"
+                  timestampString = "547971505.5864021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "699">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #3 : @autoclosure () throws -&gt; Swift.String in StringUtilTests.StringUtilTests.testTruncate() -&gt; ()"
+                  moduleName = "StringUtilTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankamistry/Documents/Priyanka_backup/Priyanka_backup/Priyanka_Mistry/Development/StringUtil/StringUtilTests/StringUtilTests.swift"
+                  timestampString = "547971505.590308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #4 : @autoclosure () throws -&gt; Swift.String in StringUtilTests.StringUtilTests.testTruncate() -&gt; ()"
+                  moduleName = "StringUtilTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankamistry/Documents/Priyanka_backup/Priyanka_backup/Priyanka_Mistry/Development/StringUtil/StringUtilTests/StringUtilTests.swift"
+                  timestampString = "547971505.593291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringUtil/StringHelper.swift"
+            timestampString = "547971504.520842"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "combineStringsForArray(stringArray:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StringUtil/StringHelper.swift"
+            timestampString = "547971504.5208941"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "combineStringsForArray(stringArray:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
